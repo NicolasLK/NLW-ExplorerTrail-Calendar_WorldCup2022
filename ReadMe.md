@@ -1,19 +1,22 @@
 <h1>NLW - Calendário Copa 2022 Trilha Explorer</h1>
 
-<span><b>Author:</b> Nicolas Loffi Kaminski</span>
-<br>
-<span><b>Tecnologias:</b></span> 
+<p align="center">
+  <img alt="Calendário Copa 2022" src=".github/Preview.jpg" widht=100%>
+</p>
 
-<ul>
-  <li>
-    HTML
-  </li>
+## :writing_hand: Author: 
+- Nicolas Loffi Kaminski
 
-  <li>
-    CSS
-  </li>
+## :rocket: Tecnologias
 
-  <li>
-    JavaScript
-  </li>
-</ul>
+Esse projeto foi desenvolvido com  as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e GitHub
+
+## :art: Projeto
+ O Calendário da Copa mostra os jogos da copa de 2022.
+
+## Layout
+ Obtenha o layout do projeto atraves [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). Necessita ter conta no Figma.
