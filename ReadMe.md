@@ -3,16 +3,16 @@
 <span><b>Author:</b> Nicolas Loffi Kaminski</span>
 <span><b>Tecnologias:</b></span> 
 
-<li>
-  <ul>
+<ul>
+  <li>
     HTML
-  </ul>
+  </li>
 
-  <ul>
+  <li>
     CSS
-  </ul>
+  </li>
 
-  <ul>
+  <li>
     JavaScript
-  </ul>
-</li>
+  </li>
+</ul>
