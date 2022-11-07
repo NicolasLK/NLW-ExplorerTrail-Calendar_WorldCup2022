@@ -1,21 +1,18 @@
 <h1>NLW - Calendário Copa 2022 Trilha Explorer</h1>
 
-<span>Author: <p>Nicolas Loffi Kaminski</p></span>
-<span>Tecnologias: 
+<span><b>Author:</b> Nicolas Loffi Kaminski</span>
+<span><b>Tecnologias:</b></span> 
+
 <li>
   <ul>
-    <p>HTML</p>
+    HTML
   </ul>
 
   <ul>
-    <p>CSS</p>
+    CSS
   </ul>
 
   <ul>
-    <p>JavaScript</p>
+    JavaScript
   </ul>
 </li>
-
-
-
-</span>
