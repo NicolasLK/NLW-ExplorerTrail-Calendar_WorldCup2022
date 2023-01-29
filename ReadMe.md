@@ -30,4 +30,4 @@ O Calendário da Copa mostra os jogos da copa de 2022.
 
 ## Layout:
 
-Obtenha o layout do projeto atraves [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). Necessita ter conta no Figma.
+Obtenha o layout do projeto atraves [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). Necessita ter conta no [Figma](https://figma.com) para acessá-lo.
